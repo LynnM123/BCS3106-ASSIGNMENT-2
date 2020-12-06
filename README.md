@@ -1,5 +1,3 @@
 # BCS3106-ASSIGNMENT-2
 PYTHON ASSIGNMENT
-hghgyhdjichoeufhuhehhhhhhhhhhhhhhhhhhhhhhhhhhhhheheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeoUIC
-EUHCUHEC
-EUCHUEHCU
+
